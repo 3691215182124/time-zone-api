@@ -1,0 +1,3 @@
+world:
+  api:
+    url: http://worldtimeapi.org

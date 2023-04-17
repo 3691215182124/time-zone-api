@@ -1,0 +1,17 @@
+{
+  "abbreviation": "PDT",
+  "client_ip": "122.181.217.52",
+  "datetime": "2023-04-05T11:56:45.564609-07:00",
+  "day_of_week": 3,
+  "day_of_year": 95,
+  "dst": true,
+  "dst_from": "2023-03-12T10:00:00+00:00",
+  "dst_offset": 3600,
+  "dst_until": "2023-11-05T09:00:00+00:00",
+  "raw_offset": -28800,
+  "timezone": "America/Los_Angeles",
+  "unixtime": 1680721005,
+  "utc_datetime": "2023-04-05T18:56:45.564609+00:00",
+  "utc_offset": "-07:00",
+  "week_number": 14
+}
